@@ -1,0 +1,301 @@
+product_id,category,product_name,price
+1,Electronics,Phone 1,497.04
+2,Electronics,Phone 2,1458.39
+3,Electronics,Phone 3,1454.07
+4,Electronics,Phone 4,1300.24
+5,Electronics,Phone 5,1403.2
+6,Electronics,Phone 6,1108.31
+7,Electronics,Phone 7,541.01
+8,Electronics,Phone 8,724.11
+9,Electronics,Phone 9,404.12
+10,Electronics,Phone 10,1821.48
+11,Electronics,Phone 11,1187.61
+12,Electronics,Phone 12,831.66
+13,Electronics,Phone 13,950.91
+14,Electronics,Phone 14,1897.2
+15,Electronics,Phone 15,349.04
+16,Electronics,Laptop 1,1193.15
+17,Electronics,Laptop 2,1036.48
+18,Electronics,Laptop 3,1242.34
+19,Electronics,Laptop 4,85.31
+20,Electronics,Laptop 5,1750.64
+21,Electronics,Laptop 6,1867.63
+22,Electronics,Laptop 7,1152.01
+23,Electronics,Laptop 8,1408.47
+24,Electronics,Laptop 9,1848.87
+25,Electronics,Laptop 10,1429.12
+26,Electronics,Laptop 11,347.45
+27,Electronics,Laptop 12,1173.76
+28,Electronics,Laptop 13,1233.09
+29,Electronics,Laptop 14,877.05
+30,Electronics,Laptop 15,1486.07
+31,Electronics,Headphones 1,1872.02
+32,Electronics,Headphones 2,1854.86
+33,Electronics,Headphones 3,929.14
+34,Electronics,Headphones 4,270.81
+35,Electronics,Headphones 5,1970.44
+36,Electronics,Headphones 6,1685.85
+37,Electronics,Headphones 7,293.09
+38,Electronics,Headphones 8,1845.64
+39,Electronics,Headphones 9,1746.3
+40,Electronics,Headphones 10,1061.73
+41,Electronics,Headphones 11,1202.99
+42,Electronics,Headphones 12,828.06
+43,Electronics,Headphones 13,156.79
+44,Electronics,Headphones 14,703.63
+45,Electronics,Headphones 15,1615.56
+46,Electronics,Monitor 1,59.03
+47,Electronics,Monitor 2,700.32
+48,Electronics,Monitor 3,826.43
+49,Electronics,Monitor 4,1097.92
+50,Electronics,Monitor 5,1843.72
+51,Electronics,Monitor 6,725.37
+52,Electronics,Monitor 7,726.56
+53,Electronics,Monitor 8,1488.13
+54,Electronics,Monitor 9,931.82
+55,Electronics,Monitor 10,487.98
+56,Electronics,Monitor 11,932.26
+57,Electronics,Monitor 12,324.67
+58,Electronics,Monitor 13,393.95
+59,Electronics,Monitor 14,1021.82
+60,Electronics,Monitor 15,866.9
+61,Fashion,Shirt 1,459.13
+62,Fashion,Shirt 2,193.95
+63,Fashion,Shirt 3,298.68
+64,Fashion,Shirt 4,323.49
+65,Fashion,Shirt 5,26.29
+66,Fashion,Shirt 6,338.5
+67,Fashion,Shirt 7,105.46
+68,Fashion,Shirt 8,481.31
+69,Fashion,Shirt 9,91.36
+70,Fashion,Shirt 10,219.02
+71,Fashion,Shirt 11,60.97
+72,Fashion,Shirt 12,498.5
+73,Fashion,Shirt 13,261.05
+74,Fashion,Shirt 14,305.78
+75,Fashion,Shirt 15,52.2
+76,Fashion,Dress 1,379.98
+77,Fashion,Dress 2,120.75
+78,Fashion,Dress 3,451.07
+79,Fashion,Dress 4,118.47
+80,Fashion,Dress 5,111.53
+81,Fashion,Dress 6,37.54
+82,Fashion,Dress 7,246.59
+83,Fashion,Dress 8,291.12
+84,Fashion,Dress 9,51.54
+85,Fashion,Dress 10,392.25
+86,Fashion,Dress 11,237.58
+87,Fashion,Dress 12,271.71
+88,Fashion,Dress 13,231.57
+89,Fashion,Dress 14,212.37
+90,Fashion,Dress 15,288.63
+91,Fashion,Shoes 1,94.52
+92,Fashion,Shoes 2,107.33
+93,Fashion,Shoes 3,433.66
+94,Fashion,Shoes 4,474.14
+95,Fashion,Shoes 5,199.19
+96,Fashion,Shoes 6,149.96
+97,Fashion,Shoes 7,329.12
+98,Fashion,Shoes 8,216.19
+99,Fashion,Shoes 9,32.19
+100,Fashion,Shoes 10,94.95
+101,Fashion,Shoes 11,363.67
+102,Fashion,Shoes 12,336.28
+103,Fashion,Shoes 13,33.01
+104,Fashion,Shoes 14,126.55
+105,Fashion,Shoes 15,130.92
+106,Fashion,Watch 1,342.51
+107,Fashion,Watch 2,29.46
+108,Fashion,Watch 3,69.97
+109,Fashion,Watch 4,403.96
+110,Fashion,Watch 5,105.7
+111,Fashion,Watch 6,333.32
+112,Fashion,Watch 7,134.33
+113,Fashion,Watch 8,67.73
+114,Fashion,Watch 9,136.72
+115,Fashion,Watch 10,366.69
+116,Fashion,Watch 11,430.73
+117,Fashion,Watch 12,418.51
+118,Fashion,Watch 13,210.65
+119,Fashion,Watch 14,340.68
+120,Fashion,Watch 15,118.39
+121,Home,Lamp 1,460.93
+122,Home,Lamp 2,1347.61
+123,Home,Lamp 3,49.11
+124,Home,Lamp 4,155.7
+125,Home,Lamp 5,335.59
+126,Home,Lamp 6,69.0
+127,Home,Lamp 7,296.71
+128,Home,Lamp 8,887.07
+129,Home,Lamp 9,649.49
+130,Home,Lamp 10,1342.23
+131,Home,Lamp 11,1231.64
+132,Home,Lamp 12,532.47
+133,Home,Lamp 13,411.35
+134,Home,Lamp 14,588.15
+135,Home,Lamp 15,897.73
+136,Home,Chair 1,424.05
+137,Home,Chair 2,947.5
+138,Home,Chair 3,631.84
+139,Home,Chair 4,841.51
+140,Home,Chair 5,671.11
+141,Home,Chair 6,462.86
+142,Home,Chair 7,1424.23
+143,Home,Chair 8,1152.5
+144,Home,Chair 9,235.97
+145,Home,Chair 10,1306.65
+146,Home,Chair 11,746.52
+147,Home,Chair 12,1344.99
+148,Home,Chair 13,1205.79
+149,Home,Chair 14,655.06
+150,Home,Chair 15,63.03
+151,Home,Table 1,424.96
+152,Home,Table 2,826.2
+153,Home,Table 3,961.21
+154,Home,Table 4,409.09
+155,Home,Table 5,234.85
+156,Home,Table 6,1257.35
+157,Home,Table 7,1477.07
+158,Home,Table 8,802.76
+159,Home,Table 9,282.37
+160,Home,Table 10,430.29
+161,Home,Table 11,57.03
+162,Home,Table 12,1374.02
+163,Home,Table 13,203.09
+164,Home,Table 14,877.48
+165,Home,Table 15,432.86
+166,Home,Sofa 1,844.64
+167,Home,Sofa 2,987.59
+168,Home,Sofa 3,1249.72
+169,Home,Sofa 4,333.44
+170,Home,Sofa 5,46.16
+171,Home,Sofa 6,231.22
+172,Home,Sofa 7,1353.03
+173,Home,Sofa 8,1314.62
+174,Home,Sofa 9,908.2
+175,Home,Sofa 10,912.76
+176,Home,Sofa 11,1007.6
+177,Home,Sofa 12,287.8
+178,Home,Sofa 13,1374.19
+179,Home,Sofa 14,645.59
+180,Home,Sofa 15,593.21
+181,Beauty,Perfume 1,162.89
+182,Beauty,Perfume 2,28.39
+183,Beauty,Perfume 3,62.39
+184,Beauty,Perfume 4,225.34
+185,Beauty,Perfume 5,38.6
+186,Beauty,Perfume 6,186.9
+187,Beauty,Perfume 7,84.92
+188,Beauty,Perfume 8,125.95
+189,Beauty,Perfume 9,97.28
+190,Beauty,Perfume 10,116.37
+191,Beauty,Perfume 11,219.93
+192,Beauty,Perfume 12,99.68
+193,Beauty,Perfume 13,176.43
+194,Beauty,Perfume 14,150.67
+195,Beauty,Perfume 15,204.15
+196,Beauty,Cream 1,282.0
+197,Beauty,Cream 2,223.78
+198,Beauty,Cream 3,76.26
+199,Beauty,Cream 4,23.89
+200,Beauty,Cream 5,89.75
+201,Beauty,Cream 6,184.6
+202,Beauty,Cream 7,29.66
+203,Beauty,Cream 8,156.46
+204,Beauty,Cream 9,185.1
+205,Beauty,Cream 10,110.26
+206,Beauty,Cream 11,234.71
+207,Beauty,Cream 12,45.38
+208,Beauty,Cream 13,36.41
+209,Beauty,Cream 14,222.53
+210,Beauty,Cream 15,156.22
+211,Beauty,Makeup Kit 1,211.19
+212,Beauty,Makeup Kit 2,138.93
+213,Beauty,Makeup Kit 3,85.22
+214,Beauty,Makeup Kit 4,248.44
+215,Beauty,Makeup Kit 5,242.83
+216,Beauty,Makeup Kit 6,212.99
+217,Beauty,Makeup Kit 7,92.56
+218,Beauty,Makeup Kit 8,183.22
+219,Beauty,Makeup Kit 9,117.88
+220,Beauty,Makeup Kit 10,41.1
+221,Beauty,Makeup Kit 11,276.43
+222,Beauty,Makeup Kit 12,53.99
+223,Beauty,Makeup Kit 13,285.82
+224,Beauty,Makeup Kit 14,142.11
+225,Beauty,Makeup Kit 15,67.76
+226,Beauty,Serum 1,169.44
+227,Beauty,Serum 2,263.79
+228,Beauty,Serum 3,223.68
+229,Beauty,Serum 4,244.87
+230,Beauty,Serum 5,202.75
+231,Beauty,Serum 6,212.3
+232,Beauty,Serum 7,257.02
+233,Beauty,Serum 8,86.16
+234,Beauty,Serum 9,154.49
+235,Beauty,Serum 10,78.04
+236,Beauty,Serum 11,296.49
+237,Beauty,Serum 12,284.06
+238,Beauty,Serum 13,26.24
+239,Beauty,Serum 14,216.09
+240,Beauty,Serum 15,278.7
+241,Sports,Dumbbells 1,164.95
+242,Sports,Dumbbells 2,465.16
+243,Sports,Dumbbells 3,734.5
+244,Sports,Dumbbells 4,51.31
+245,Sports,Dumbbells 5,565.5
+246,Sports,Dumbbells 6,255.45
+247,Sports,Dumbbells 7,741.41
+248,Sports,Dumbbells 8,777.57
+249,Sports,Dumbbells 9,756.81
+250,Sports,Dumbbells 10,392.52
+251,Sports,Dumbbells 11,693.08
+252,Sports,Dumbbells 12,679.53
+253,Sports,Dumbbells 13,272.3
+254,Sports,Dumbbells 14,667.41
+255,Sports,Dumbbells 15,53.68
+256,Sports,Yoga Mat 1,487.11
+257,Sports,Yoga Mat 2,203.26
+258,Sports,Yoga Mat 3,118.44
+259,Sports,Yoga Mat 4,84.64
+260,Sports,Yoga Mat 5,564.62
+261,Sports,Yoga Mat 6,288.4
+262,Sports,Yoga Mat 7,586.69
+263,Sports,Yoga Mat 8,75.65
+264,Sports,Yoga Mat 9,269.35
+265,Sports,Yoga Mat 10,443.11
+266,Sports,Yoga Mat 11,637.81
+267,Sports,Yoga Mat 12,272.03
+268,Sports,Yoga Mat 13,510.07
+269,Sports,Yoga Mat 14,711.63
+270,Sports,Yoga Mat 15,502.29
+271,Sports,Running Shoes 1,205.54
+272,Sports,Running Shoes 2,43.91
+273,Sports,Running Shoes 3,699.33
+274,Sports,Running Shoes 4,41.48
+275,Sports,Running Shoes 5,702.89
+276,Sports,Running Shoes 6,434.93
+277,Sports,Running Shoes 7,752.78
+278,Sports,Running Shoes 8,644.06
+279,Sports,Running Shoes 9,798.4
+280,Sports,Running Shoes 10,296.8
+281,Sports,Running Shoes 11,619.57
+282,Sports,Running Shoes 12,336.5
+283,Sports,Running Shoes 13,396.9
+284,Sports,Running Shoes 14,511.32
+285,Sports,Running Shoes 15,702.1
+286,Sports,Jacket 1,787.66
+287,Sports,Jacket 2,620.41
+288,Sports,Jacket 3,348.77
+289,Sports,Jacket 4,351.55
+290,Sports,Jacket 5,596.63
+291,Sports,Jacket 6,210.05
+292,Sports,Jacket 7,110.62
+293,Sports,Jacket 8,299.83
+294,Sports,Jacket 9,247.61
+295,Sports,Jacket 10,254.64
+296,Sports,Jacket 11,206.05
+297,Sports,Jacket 12,57.62
+298,Sports,Jacket 13,38.85
+299,Sports,Jacket 14,790.48
+300,Sports,Jacket 15,356.52

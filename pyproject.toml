@@ -1,0 +1,13 @@
+[project]
+name = "ecmm-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "faker>=37.6.0",
+    "matplotlib>=3.10.6",
+    "notebook>=7.4.5",
+    "numpy>=2.2.6",
+    "pandas>=2.3.2",
+]
