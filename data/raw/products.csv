@@ -1,201 +1,301 @@
 product_id,category,product_name,price
-1,Books,Books - Usually,33.35
-2,Sports,Sports - Every,259.85
-3,Home,Home - Expert,290.27
-4,Fashion,Fashion - Medical,307.88
-5,Sports,Sports - Base,348.73
-6,Sports,Sports - Number,218.24
-7,Home,Home - Hear,400.32
-8,Books,Books - Sing,30.51
-9,Home,Home - South,38.51
-10,Toys,Toys - Start,368.55
-11,Books,Books - Police,163.45
-12,Home,Home - Much,52.77
-13,Home,Home - Parent,462.76
-14,Sports,Sports - Available,398.62
-15,Books,Books - College,311.62
-16,Fashion,Fashion - Several,11.35
-17,Home,Home - Attorney,99.03
-18,Electronics,Electronics - Yard,203.59
-19,Electronics,Electronics - Plan,352.65
-20,Sports,Sports - Affect,232.65
-21,Sports,Sports - Good,383.9
-22,Books,Books - Once,39.95
-23,Electronics,Electronics - Course,469.49
-24,Sports,Sports - Right,290.22
-25,Electronics,Electronics - Also,311.46
-26,Sports,Sports - Student,342.83
-27,Fashion,Fashion - Grow,122.26
-28,Electronics,Electronics - Practice,261.43
-29,Fashion,Fashion - Deep,127.71
-30,Fashion,Fashion - Provide,419.1
-31,Toys,Toys - Better,78.0
-32,Books,Books - Speak,269.59
-33,Toys,Toys - Wrong,84.11
-34,Electronics,Electronics - Husband,100.89
-35,Home,Home - In,280.81
-36,Electronics,Electronics - Size,190.2
-37,Fashion,Fashion - Story,212.32
-38,Fashion,Fashion - Pressure,23.96
-39,Fashion,Fashion - Forget,98.38
-40,Home,Home - Where,124.34
-41,Sports,Sports - There,10.26
-42,Electronics,Electronics - Support,9.89
-43,Books,Books - Once,236.79
-44,Sports,Sports - Most,185.84
-45,Home,Home - Sometimes,269.06
-46,Toys,Toys - Thing,399.67
-47,Fashion,Fashion - Themselves,217.68
-48,Books,Books - Future,372.06
-49,Books,Books - Up,96.71
-50,Books,Books - Decide,127.06
-51,Books,Books - Particularly,203.22
-52,Electronics,Electronics - Special,260.3
-53,Toys,Toys - Indeed,106.11
-54,Books,Books - Discuss,308.68
-55,Books,Books - Range,79.13
-56,Sports,Sports - Role,219.85
-57,Sports,Sports - Environment,261.41
-58,Home,Home - Wrong,293.45
-59,Fashion,Fashion - Clearly,402.84
-60,Toys,Toys - Hour,482.97
-61,Toys,Toys - Sort,398.15
-62,Sports,Sports - City,361.51
-63,Books,Books - Sea,377.05
-64,Home,Home - Find,363.14
-65,Sports,Sports - Look,199.32
-66,Books,Books - Again,319.14
-67,Electronics,Electronics - Option,416.48
-68,Electronics,Electronics - Education,208.51
-69,Home,Home - Behind,108.76
-70,Books,Books - Property,371.06
-71,Toys,Toys - Particular,148.96
-72,Home,Home - Look,71.9
-73,Home,Home - Affect,83.0
-74,Fashion,Fashion - Ball,228.17
-75,Sports,Sports - That,46.1
-76,Fashion,Fashion - Onto,309.4
-77,Home,Home - Stop,245.86
-78,Books,Books - Attention,265.95
-79,Sports,Sports - Discuss,43.05
-80,Home,Home - Administration,156.75
-81,Books,Books - Or,39.87
-82,Sports,Sports - Father,433.62
-83,Home,Home - Report,372.75
-84,Home,Home - Effort,471.55
-85,Toys,Toys - Own,352.06
-86,Books,Books - These,213.86
-87,Fashion,Fashion - Dream,451.22
-88,Electronics,Electronics - Yeah,234.93
-89,Sports,Sports - Near,298.66
-90,Toys,Toys - Family,351.78
-91,Fashion,Fashion - Season,65.16
-92,Sports,Sports - Still,395.45
-93,Books,Books - Left,407.46
-94,Fashion,Fashion - In,61.36
-95,Fashion,Fashion - Pass,463.81
-96,Sports,Sports - Benefit,226.12
-97,Electronics,Electronics - Affect,411.19
-98,Sports,Sports - Rise,45.83
-99,Books,Books - Sound,303.38
-100,Sports,Sports - Enter,37.43
-101,Electronics,Electronics - Something,21.67
-102,Electronics,Electronics - Process,165.64
-103,Electronics,Electronics - Thought,72.8
-104,Electronics,Electronics - Summer,197.32
-105,Fashion,Fashion - Natural,31.08
-106,Electronics,Electronics - Plant,102.8
-107,Electronics,Electronics - His,216.4
-108,Sports,Sports - Above,374.18
-109,Home,Home - Improve,106.6
-110,Sports,Sports - Can,350.18
-111,Sports,Sports - Answer,439.85
-112,Toys,Toys - Agreement,301.85
-113,Home,Home - Cold,160.49
-114,Sports,Sports - Important,343.89
-115,Sports,Sports - Effect,189.86
-116,Books,Books - Back,188.35
-117,Home,Home - Form,250.74
-118,Fashion,Fashion - Above,336.05
-119,Fashion,Fashion - Major,284.23
-120,Books,Books - Method,140.93
-121,Sports,Sports - Traditional,235.93
-122,Toys,Toys - Authority,252.47
-123,Sports,Sports - Energy,305.85
-124,Toys,Toys - Herself,37.16
-125,Sports,Sports - Exactly,215.5
-126,Toys,Toys - Moment,54.04
-127,Toys,Toys - Effect,121.64
-128,Books,Books - Help,479.02
-129,Fashion,Fashion - Next,249.77
-130,Home,Home - Growth,75.75
-131,Fashion,Fashion - Never,350.27
-132,Books,Books - Drug,450.56
-133,Home,Home - Image,286.89
-134,Home,Home - Student,227.99
-135,Fashion,Fashion - Study,105.46
-136,Books,Books - Which,384.06
-137,Fashion,Fashion - Film,9.06
-138,Toys,Toys - Wait,402.29
-139,Fashion,Fashion - Sort,154.44
-140,Books,Books - Page,364.57
-141,Home,Home - Kind,425.52
-142,Sports,Sports - Son,144.63
-143,Toys,Toys - Catch,415.95
-144,Electronics,Electronics - Determine,89.62
-145,Fashion,Fashion - Center,314.8
-146,Toys,Toys - Board,76.07
-147,Electronics,Electronics - Can,339.77
-148,Electronics,Electronics - Know,382.81
-149,Sports,Sports - Ground,276.73
-150,Toys,Toys - Political,460.79
-151,Toys,Toys - Either,463.64
-152,Home,Home - Enter,399.1
-153,Toys,Toys - Throw,462.06
-154,Toys,Toys - Play,268.47
-155,Toys,Toys - Although,492.43
-156,Sports,Sports - Wonder,416.55
-157,Electronics,Electronics - Language,466.43
-158,Fashion,Fashion - Throughout,107.41
-159,Sports,Sports - Test,341.27
-160,Fashion,Fashion - Scientist,164.72
-161,Toys,Toys - General,69.19
-162,Home,Home - Have,325.14
-163,Sports,Sports - Set,406.12
-164,Toys,Toys - Benefit,73.25
-165,Electronics,Electronics - Kitchen,32.51
-166,Electronics,Electronics - Father,71.19
-167,Fashion,Fashion - Catch,33.19
-168,Home,Home - Throughout,206.78
-169,Home,Home - Discover,208.99
-170,Electronics,Electronics - Look,151.25
-171,Sports,Sports - Including,139.9
-172,Sports,Sports - Everybody,403.66
-173,Fashion,Fashion - Our,379.51
-174,Books,Books - Run,208.26
-175,Home,Home - Behavior,376.44
-176,Home,Home - Begin,170.31
-177,Books,Books - Imagine,460.29
-178,Electronics,Electronics - Direction,281.64
-179,Sports,Sports - Low,120.84
-180,Sports,Sports - Operation,178.45
-181,Home,Home - Heart,15.12
-182,Books,Books - Camera,343.94
-183,Books,Books - Catch,75.63
-184,Books,Books - Interview,91.97
-185,Books,Books - Dog,13.61
-186,Toys,Toys - Give,102.68
-187,Home,Home - Mouth,119.0
-188,Fashion,Fashion - Hold,443.75
-189,Electronics,Electronics - Represent,440.32
-190,Fashion,Fashion - Through,340.77
-191,Toys,Toys - Writer,325.26
-192,Sports,Sports - Challenge,457.1
-193,Home,Home - Water,410.84
-194,Toys,Toys - Public,180.85
-195,Electronics,Electronics - Open,417.9
-196,Sports,Sports - Teacher,71.58
-197,Books,Books - Amount,57.92
-198,Fashion,Fashion - Dark,246.05
-199,Electronics,Electronics - There,175.74
-200,Toys,Toys - Happen,78.45
+1,Books,Textbook 665,819.55
+2,Fashion,T-shirt 969,79.24
+3,Books,Novel 100,473.43
+4,Beauty,Perfume 398,910.02
+5,Beauty,Skincare Cream 602,1485.83
+6,Fashion,Jacket 671,202.55
+7,Books,Cookbook 418,1878.41
+8,Home,Sofa 707,744.21
+9,Books,Comics 974,476.04
+10,Home,Sofa 703,737.83
+11,Home,Sofa 408,555.38
+12,Electronics,Smartwatch 94,1327.22
+13,Beauty,Lipstick 52,1574.66
+14,Fashion,Jeans 806,1131.33
+15,Electronics,Camera 213,1174.83
+16,Fashion,Sneakers 793,299.37
+17,Beauty,Lipstick 284,1717.52
+18,Fashion,Jeans 554,505.06
+19,Fashion,T-shirt 677,1733.56
+20,Fashion,T-shirt 367,1581.02
+21,Fashion,Dress 332,36.48
+22,Home,Sofa 130,1484.73
+23,Beauty,Lipstick 764,131.8
+24,Books,Textbook 526,1189.36
+25,Books,Cookbook 227,1891.1
+26,Electronics,Camera 309,918.79
+27,Electronics,Smartphone 491,1695.36
+28,Books,Novel 503,1426.24
+29,Books,Novel 921,166.18
+30,Beauty,Perfume 68,256.75
+31,Beauty,Makeup Kit 562,1425.74
+32,Books,Cookbook 544,593.32
+33,Beauty,Makeup Kit 441,202.86
+34,Electronics,Camera 739,1731.66
+35,Books,Comics 910,460.84
+36,Home,Chair 409,834.9
+37,Electronics,Headphones 438,628.48
+38,Home,Bed Frame 977,309.51
+39,Books,Novel 94,1664.38
+40,Electronics,Smartwatch 99,1490.45
+41,Home,Dining Table 570,124.66
+42,Beauty,Makeup Kit 338,1341.68
+43,Books,Textbook 895,1332.35
+44,Books,Novel 992,578.82
+45,Home,Bed Frame 107,1157.95
+46,Fashion,Jeans 673,966.97
+47,Electronics,Headphones 866,1114.75
+48,Electronics,Headphones 588,456.19
+49,Books,Cookbook 998,1536.03
+50,Beauty,Makeup Kit 692,1287.18
+51,Electronics,Camera 952,1317.37
+52,Home,Sofa 185,550.17
+53,Home,Bed Frame 360,17.18
+54,Fashion,Dress 674,804.56
+55,Fashion,T-shirt 94,1493.49
+56,Fashion,Jacket 430,910.02
+57,Fashion,Sneakers 320,1444.58
+58,Beauty,Makeup Kit 87,1767.27
+59,Fashion,Jeans 773,1237.59
+60,Electronics,Headphones 454,1325.57
+61,Books,Cookbook 453,831.3
+62,Fashion,Dress 117,693.62
+63,Electronics,Headphones 695,1358.58
+64,Books,Cookbook 684,620.3
+65,Fashion,Jacket 614,114.29
+66,Fashion,Sneakers 969,426.41
+67,Fashion,Sneakers 297,659.6
+68,Electronics,Smartwatch 765,864.16
+69,Fashion,Jacket 546,1408.82
+70,Beauty,Makeup Kit 854,1337.76
+71,Home,Sofa 407,1724.22
+72,Electronics,Smartwatch 20,922.21
+73,Electronics,Headphones 590,861.42
+74,Books,Comics 297,234.77
+75,Electronics,Headphones 176,1603.64
+76,Beauty,Skincare Cream 852,1380.77
+77,Home,Sofa 448,1689.75
+78,Fashion,Jacket 604,803.9
+79,Electronics,Smartwatch 892,624.0
+80,Home,Dining Table 342,1559.34
+81,Electronics,Camera 649,232.48
+82,Beauty,Perfume 928,1553.58
+83,Home,Dining Table 242,210.1
+84,Home,Dining Table 178,1206.79
+85,Electronics,Laptop 975,1546.83
+86,Books,Comics 773,1129.65
+87,Beauty,Skincare Cream 698,1848.69
+88,Beauty,Makeup Kit 331,1729.17
+89,Home,Dining Table 451,141.23
+90,Books,Textbook 816,552.97
+91,Electronics,Headphones 520,153.01
+92,Books,Comics 39,118.5
+93,Home,Sofa 661,1729.18
+94,Electronics,Camera 609,1016.6
+95,Books,Cookbook 568,1908.69
+96,Electronics,Smartwatch 931,1620.58
+97,Fashion,Sneakers 620,953.88
+98,Fashion,T-shirt 462,211.49
+99,Home,Sofa 517,1294.02
+100,Electronics,Laptop 725,878.33
+101,Books,Cookbook 536,1221.56
+102,Home,Bed Frame 940,569.37
+103,Books,Textbook 696,1197.78
+104,Home,Sofa 338,193.54
+105,Books,Textbook 259,1448.85
+106,Beauty,Perfume 342,167.6
+107,Fashion,Sneakers 318,1935.55
+108,Books,Biography 610,1419.12
+109,Electronics,Headphones 573,756.48
+110,Home,Dining Table 687,1407.15
+111,Beauty,Lipstick 662,1342.56
+112,Beauty,Shampoo 19,728.38
+113,Fashion,Jeans 350,1895.6
+114,Books,Biography 232,1999.95
+115,Fashion,T-shirt 303,1689.63
+116,Electronics,Camera 790,1081.84
+117,Beauty,Lipstick 678,676.84
+118,Beauty,Perfume 612,756.56
+119,Fashion,Jeans 852,1387.23
+120,Beauty,Perfume 739,878.16
+121,Books,Textbook 693,1440.57
+122,Books,Cookbook 292,1506.02
+123,Books,Biography 547,482.14
+124,Books,Biography 377,1358.22
+125,Beauty,Skincare Cream 473,1540.03
+126,Books,Cookbook 541,840.23
+127,Fashion,Jeans 821,1211.3
+128,Home,Sofa 657,963.78
+129,Home,Cookware 957,209.67
+130,Beauty,Lipstick 292,172.33
+131,Fashion,Sneakers 461,1811.09
+132,Fashion,Jacket 94,1893.09
+133,Fashion,Jacket 906,702.42
+134,Electronics,Smartwatch 55,795.93
+135,Home,Dining Table 396,1989.08
+136,Home,Dining Table 29,640.78
+137,Electronics,Headphones 811,296.37
+138,Electronics,Headphones 940,1660.37
+139,Fashion,Jacket 460,1232.62
+140,Electronics,Smartphone 263,435.23
+141,Fashion,Dress 963,1455.83
+142,Beauty,Skincare Cream 114,1553.46
+143,Fashion,Sneakers 125,100.26
+144,Books,Cookbook 469,130.3
+145,Books,Cookbook 549,37.79
+146,Beauty,Makeup Kit 248,1438.5
+147,Home,Chair 2,1231.55
+148,Fashion,Dress 427,378.69
+149,Electronics,Camera 999,724.4
+150,Beauty,Makeup Kit 520,1573.89
+151,Beauty,Makeup Kit 21,783.96
+152,Books,Novel 651,776.83
+153,Home,Bed Frame 766,37.4
+154,Electronics,Headphones 247,1467.22
+155,Electronics,Camera 753,1514.57
+156,Fashion,T-shirt 361,1094.3
+157,Fashion,Jacket 713,959.67
+158,Fashion,Jeans 65,1433.51
+159,Books,Novel 301,407.17
+160,Fashion,T-shirt 324,1867.08
+161,Beauty,Skincare Cream 835,1088.35
+162,Home,Sofa 772,1295.57
+163,Home,Bed Frame 883,1562.78
+164,Home,Bed Frame 128,1599.69
+165,Books,Comics 762,882.27
+166,Books,Textbook 998,377.7
+167,Books,Textbook 947,1595.6
+168,Home,Sofa 745,851.88
+169,Books,Cookbook 843,365.01
+170,Home,Bed Frame 106,164.74
+171,Home,Bed Frame 457,1207.23
+172,Books,Biography 707,890.6
+173,Books,Novel 745,1740.72
+174,Home,Cookware 446,552.74
+175,Electronics,Smartphone 688,1276.84
+176,Home,Cookware 821,1501.05
+177,Fashion,T-shirt 147,1698.1
+178,Books,Novel 130,139.13
+179,Home,Bed Frame 393,1899.19
+180,Electronics,Camera 158,1359.73
+181,Home,Bed Frame 455,1527.35
+182,Beauty,Perfume 543,737.07
+183,Home,Bed Frame 256,1921.24
+184,Electronics,Laptop 512,1037.9
+185,Beauty,Lipstick 269,1551.05
+186,Books,Biography 627,574.73
+187,Books,Biography 126,275.78
+188,Electronics,Smartwatch 177,1797.86
+189,Books,Novel 830,1365.45
+190,Home,Bed Frame 727,134.55
+191,Beauty,Shampoo 913,603.41
+192,Fashion,Jeans 813,726.18
+193,Fashion,T-shirt 206,1585.17
+194,Fashion,Jacket 27,724.99
+195,Beauty,Shampoo 479,1608.31
+196,Beauty,Perfume 627,1769.07
+197,Electronics,Headphones 408,1999.19
+198,Books,Cookbook 421,1539.48
+199,Beauty,Lipstick 129,1944.9
+200,Electronics,Smartwatch 478,1361.82
+201,Home,Dining Table 900,1658.96
+202,Beauty,Makeup Kit 187,1536.72
+203,Fashion,Jacket 515,1821.87
+204,Electronics,Smartphone 531,310.27
+205,Fashion,Jeans 331,1869.8
+206,Fashion,Sneakers 971,1882.1
+207,Home,Sofa 257,396.62
+208,Beauty,Shampoo 129,1251.92
+209,Beauty,Makeup Kit 96,1007.63
+210,Fashion,Dress 965,1163.39
+211,Fashion,Dress 738,1804.49
+212,Home,Cookware 43,1651.35
+213,Electronics,Smartphone 47,1897.35
+214,Beauty,Shampoo 667,425.56
+215,Beauty,Skincare Cream 633,1279.79
+216,Books,Cookbook 297,1285.61
+217,Home,Chair 251,1610.35
+218,Books,Textbook 465,150.58
+219,Electronics,Laptop 451,834.17
+220,Books,Biography 349,1215.29
+221,Home,Bed Frame 752,1976.11
+222,Home,Chair 134,1522.53
+223,Beauty,Makeup Kit 109,641.64
+224,Books,Novel 274,901.94
+225,Fashion,T-shirt 52,583.97
+226,Books,Cookbook 429,500.3
+227,Fashion,Sneakers 957,1157.49
+228,Home,Dining Table 782,322.89
+229,Beauty,Skincare Cream 511,1758.76
+230,Books,Novel 93,1890.74
+231,Beauty,Skincare Cream 990,485.25
+232,Beauty,Shampoo 50,105.83
+233,Books,Cookbook 904,1686.49
+234,Books,Textbook 550,21.31
+235,Electronics,Smartwatch 138,1765.5
+236,Home,Chair 375,95.26
+237,Electronics,Camera 576,393.34
+238,Beauty,Shampoo 76,775.77
+239,Books,Cookbook 287,1651.5
+240,Beauty,Makeup Kit 122,261.68
+241,Electronics,Smartwatch 383,1590.82
+242,Home,Cookware 962,734.38
+243,Fashion,Jeans 617,1020.7
+244,Beauty,Lipstick 47,82.63
+245,Home,Chair 532,916.69
+246,Beauty,Makeup Kit 144,659.29
+247,Beauty,Shampoo 167,788.94
+248,Beauty,Shampoo 608,676.07
+249,Beauty,Makeup Kit 502,1418.94
+250,Home,Chair 836,38.19
+251,Home,Sofa 427,1169.49
+252,Electronics,Camera 486,534.73
+253,Beauty,Makeup Kit 234,1444.19
+254,Beauty,Skincare Cream 175,1050.84
+255,Beauty,Skincare Cream 152,1644.21
+256,Fashion,T-shirt 587,1896.67
+257,Electronics,Laptop 20,884.87
+258,Books,Biography 423,1382.55
+259,Books,Cookbook 794,1224.9
+260,Books,Novel 723,280.47
+261,Fashion,Dress 333,1996.26
+262,Books,Cookbook 386,630.94
+263,Fashion,Jacket 935,1068.59
+264,Beauty,Shampoo 693,1545.12
+265,Home,Cookware 496,388.57
+266,Fashion,Sneakers 572,600.51
+267,Home,Bed Frame 722,418.52
+268,Books,Textbook 492,700.86
+269,Home,Bed Frame 125,1149.09
+270,Beauty,Skincare Cream 918,1960.42
+271,Home,Dining Table 298,88.92
+272,Electronics,Headphones 947,887.54
+273,Home,Chair 220,408.13
+274,Beauty,Shampoo 956,1126.23
+275,Home,Dining Table 112,1233.28
+276,Beauty,Perfume 249,106.28
+277,Beauty,Perfume 654,469.51
+278,Electronics,Smartwatch 339,1436.13
+279,Electronics,Laptop 6,1929.21
+280,Fashion,Jacket 669,1870.39
+281,Books,Comics 667,402.91
+282,Home,Bed Frame 293,1293.57
+283,Electronics,Camera 238,1072.63
+284,Electronics,Laptop 428,1765.08
+285,Fashion,T-shirt 857,797.0
+286,Books,Biography 960,1499.26
+287,Home,Sofa 10,600.29
+288,Beauty,Lipstick 951,1966.07
+289,Home,Chair 657,1088.88
+290,Books,Biography 872,1010.9
+291,Home,Dining Table 829,229.73
+292,Fashion,Jacket 664,518.24
+293,Fashion,T-shirt 755,677.54
+294,Home,Cookware 691,1515.78
+295,Fashion,Dress 877,1279.26
+296,Books,Comics 528,659.21
+297,Books,Novel 190,1963.46
+298,Books,Textbook 959,499.85
+299,Home,Chair 242,896.24
+300,Home,Bed Frame 310,1167.01
